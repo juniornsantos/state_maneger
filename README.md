@@ -4,11 +4,9 @@ Repositório criado para mostrar as diferentes maneiras de criar um teste IMC. U
 
 ## Interface do sistema
 
-![snackbar](https://github.com/juniornsantos/state_maneger/blob/main/git_assets/Screenshot_1681134963.png)
-
-![snackbar](https://github.com/juniornsantos/state_maneger/blob/main/git_assets/Screenshot_1681134980.png)
-<br>
-
+ <img align="center" alt="Flutter" height="1140" width="540" src="./git_assets/Screenshot_1681134963.png">
+  <br>
+ <img align="center" alt="Flutter" height="1140" width="540" src="./git_assets/Screenshot_1681134980.png">
 
 
 ## Support e Referência
