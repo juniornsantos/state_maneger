@@ -1,16 +1,24 @@
-# flutter_default_state_maneger
+# Flutter State Maneger
 
-A new Flutter project.
+Repositório criado para mostrar as diferentes maneiras de criar um teste IMC. Usando os gerenciadores de estados setstate, change_notifier, value_notifier e bloc.
 
-## Getting Started
+## Interface do sistema
 
-This project is a starting point for a Flutter application.
+![snackbar](https://github.com/juniornsantos/state_maneger/blob/main/assets/images/Screenshot_1681134963.png)
 
-A few resources to get you started if this is your first Flutter project:
+![snackbar](https://github.com/juniornsantos/state_maneger/blob/main/assets/images/Screenshot_1681134963.png)
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Support e Referência
+Referencia: Academia do Flutter
+
+Você pode obter suporte da comunidade por meio de:
+
+<a href = "https://api.whatsapp.com/send?phone=5588998686890">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+</a>
+<a href = "https://t.me/JuniorNogueira">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+</a>
